@@ -11,6 +11,7 @@
     display: flex;
     align-items: center;
     justify-content: center ```
+
     `` I always use this code for banners ever since a friend/senior dev showed it to me ``
 
 * Carousels
