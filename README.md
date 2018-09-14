@@ -20,3 +20,8 @@
   *  [Cycle2](http://jquery.malsup.com/cycle2/) <br>
 
   >I dont know jquery (It's on the long list of things to learn) but this jquery carousel is very easy to use and understand
+
+* Checkbox's
+  *  [Pretty-checkbox's](https://lokesh-coder.github.io/pretty-checkbox/)
+  
+  >A very easy to use css/javascript libary for checkboxs
