@@ -2,7 +2,7 @@
 * 1 Navbar:
   * [code pen bootstrap navbars](https://codepen.io/bootstrapped/pen/KwYGwq)
 
-* banner:
+* Banner:
   ```css
     background: url(some url) center center no-repeat;
     color: white;
