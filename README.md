@@ -25,3 +25,8 @@
   *  [Pretty-checkbox's](https://lokesh-coder.github.io/pretty-checkbox/)
   
   >A very easy to use css/javascript libary for checkboxs
+
+* Icons
+ * [Material Design Icons] (https://material.io/tools/icons/?icon=edit_location&style=baseline)
+ 
+ >Font awesome is also good but I personally prefer material designs icons
