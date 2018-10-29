@@ -32,4 +32,4 @@
  >Font awesome is also good but I personally prefer material designs icons
  
  * Footer copyright & date that automactically updates
-  * <p>&copy;<script type="text/javascript">document.write(new Date().getFullYear());</script> Company, Inc.</p>
+  > <p>&copy;<script type="text/javascript">document.write(new Date().getFullYear());</script> Company, Inc.</p>
