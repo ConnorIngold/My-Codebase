@@ -33,3 +33,6 @@
  
  * Footer copyright & date that automactically updates
   > <p>&copy;<script type="text/javascript">document.write(new Date().getFullYear());</script> Company, Inc.</p>
+  
+* Datepicker
+ * [a super simple jquery datepicker](http://www.daterangepicker.com/#examples)
