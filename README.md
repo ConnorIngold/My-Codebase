@@ -36,3 +36,6 @@
   
 * Datepicker
   > [Super Simple & flexible jquery datepicker](http://www.daterangepicker.com/#examples)
+
+* On click add a new form with various other super powers!
+  > [codepen](https://codepen.io/anon/pen/mQjdjY)
