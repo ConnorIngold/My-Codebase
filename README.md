@@ -39,3 +39,7 @@
 
 * On click add a new form with various other super powers!
   > [codepen](https://codepen.io/anon/pen/mQjdjY)
+  
+* Never use standard Select elmenets again! 
+  > https://select2.org/getting-started/basic-usage
+  
